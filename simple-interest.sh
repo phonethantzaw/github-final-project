@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Phone Thant Zaw
+   # phonethantzaw
 
    # Input:
    # p, principal amount
